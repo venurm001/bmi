@@ -1,0 +1,66 @@
+body{
+    width: 100%;
+    height: 100%;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 3, 0, 0.8),rgba(0, 0, 0, 0.6)),url(https://wallpaperaccess.com/full/5789354.jpg);
+}
+.inputgroup h2{
+    text-shadow: 5px 5px 10px rgb(119, 119, 119);
+    font-family:\fantasy;
+}
+#result{
+    color:brown
+}
+.step1{
+  padding-top: 150px;
+  /* padding-left:150px ; */
+  display: flex;
+  justify-content: center;
+  align-items: right;
+  /* padding-left: 100px; */
+ 
+}
+.step2{
+
+    padding-top: 100px;
+    /* padding-left:150px ; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p h3{
+   color: aliceblue;
+}
+span{
+    color: rgb(255, 42, 42);
+}
+.inputgroup{
+    background-color: rgb(245, 245, 245);
+    border: 0.6px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 10px 30px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+
+}
+.p{
+    color: aliceblue;
+}
+.inputgroup input{
+    padding: 15px;
+    margin: 10px;
+    border: 0px ;
+   outline: none;
+    background-color: rgb(255, 196, 196);
+    border-radius: 18px;
+}
+.table{
+    width: 400px;
+    border: 2px solid red;
+    box-shadow: 5px 10px 30px;
+    border-radius: 10px;
+}
+
